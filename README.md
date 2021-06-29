@@ -1,8 +1,9 @@
 # Basic-Calculator
 
-here is he process
+By Mr.Tejas sushil shinde
 
 #include<stdio.h>
+
 void main()
 {
     float num1,num2;
@@ -43,5 +44,5 @@ void main()
         printf("\n The operation is invalid");
         // this code will output when user ude the operation which is not there 
     }
-                  
+                 
 }
