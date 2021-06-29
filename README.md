@@ -11,6 +11,7 @@ void main()
     float result;
     
     printf("\n CALCULATOR");
+    printf("\n creator: tejas sushil shinde");
     //the above code will display the header of the program.
     printf("\n Enter the first number:  ");
     scanf("%f",&num1);
