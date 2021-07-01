@@ -47,7 +47,7 @@ switch(op)
               //this code will multiply the input
             
     case'/'  :result=num1/num2;
-              printf("\n multiplication = %f" ,result);
+              printf("\n division = %f" ,result);
               break;
               //this code will divide the input
     default:
