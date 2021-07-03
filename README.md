@@ -52,7 +52,7 @@ switch(op)
               //this code will divide the input
     default:
     printf("\n The operation is invalid");
-    // this code will output when user ude the operation which is not there 
+    // this code will display when user don't use the operation correctly
 }
 
 }
