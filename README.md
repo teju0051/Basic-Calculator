@@ -32,22 +32,22 @@ switch(op)
 {
 
     case'+'  :result=num1+num2;
-              printf("\n Addition = %f" ,result);
+              printf("\n Answer = %f" ,result);
               break;
               //this operation will do addition of the input
               
     case'-'  :result=num1-num2;
-              printf("\n subtraction =%f" ,result);
+              printf("\n Answer =%f" ,result);
               break;
               //this code will subtract  the input
               
     case'*'  :result=num1*num2;
-              printf("\n multiplication =%f" ,result);
+              printf("\n Answer =%f" ,result);
               break;
               //this code will multiply the input
             
     case'/'  :result=num1/num2;
-              printf("\n division = %f" ,result);
+              printf("\n Answer = %f" ,result);
               break;
               //this code will divide the input
     default:
